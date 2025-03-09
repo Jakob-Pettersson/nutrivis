@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nutrivis/static/css/main.f855e6bc.css",
-    "main.js": "/nutrivis/static/js/main.887c2759.js",
+    "main.css": "/nutrivis/static/css/main.51cb8ec9.css",
+    "main.js": "/nutrivis/static/js/main.a68faf83.js",
     "static/js/488.4b0840ad.chunk.js": "/nutrivis/static/js/488.4b0840ad.chunk.js",
     "index.html": "/nutrivis/index.html",
-    "main.f855e6bc.css.map": "/nutrivis/static/css/main.f855e6bc.css.map",
-    "main.887c2759.js.map": "/nutrivis/static/js/main.887c2759.js.map",
+    "main.51cb8ec9.css.map": "/nutrivis/static/css/main.51cb8ec9.css.map",
+    "main.a68faf83.js.map": "/nutrivis/static/js/main.a68faf83.js.map",
     "488.4b0840ad.chunk.js.map": "/nutrivis/static/js/488.4b0840ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.887c2759.js"
+    "static/css/main.51cb8ec9.css",
+    "static/js/main.a68faf83.js"
   ]
 }
